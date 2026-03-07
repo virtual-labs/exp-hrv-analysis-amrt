@@ -1,0 +1,17 @@
+
+/home/runner/work/exp-hrv-analysis-amrt/exp-hrv-analysis-amrt/experiment/simulation/app.js
+   159:24  warning  'HRVSignalEngine' is not defined                     no-undef
+   783:9   warning  'updateLiveDisplay' is not defined                   no-undef
+   790:11  warning  'btnAnalyze' is assigned a value but never used      no-unused-vars
+   810:5   warning  'ecgBufferIndex' is assigned a value but never used  no-unused-vars
+   811:5   warning  'lastBeatTime' is assigned a value but never used    no-unused-vars
+   895:5   warning  'ecgPhase' is assigned a value but never used        no-unused-vars
+  1357:9   warning  'sumSum' is assigned a value but never used          no-unused-vars
+  1775:10  warning  'formatTime' is defined but never used               no-unused-vars
+
+/home/runner/work/exp-hrv-analysis-amrt/exp-hrv-analysis-amrt/experiment/simulation/hrv-engine.js
+  373:38  warning  'module' is not defined  no-undef
+  374:5   warning  'module' is not defined  no-undef
+
+✖ 10 problems (0 errors, 10 warnings)
+
