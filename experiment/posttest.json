@@ -3,25 +3,25 @@
   "version": 2.0,
   "questions": [
     {
-          "question": "1. Which of the following does HRV indicate?",
+          "question": "1. Which of the following components are needed for HRV analysis?",
       "answers": {
-        "a": "Changes in pulse rate",
-        "b": "Changes in respiration rate",
-        "c": "Changes in the time interval between consecutive heartbeats",
-        "d": "Changes in oxygen concentration"
+        "a": "ECG System",
+        "b": "ECG Electrodes",
+        "c": "HRV Software",
+        "d": "All the above"
       },
  
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },   
 
     {
-      "question": "2. Which of the following is closely connected with HRV analysis?",
+      "question": "2. A high HRV rate is expected in which of the following states?",
       "answers": {
-        "a": "ECG",
-        "b": "EEG",
-        "c": "EMG",
-        "d": "MRI"
+        "a": "Resting state",
+        "b": "Stress levels",
+        "c": "Post-exercise",
+        "d": "Cardiac dysfunctions"
       },
       
       "correctAnswer": "a",
@@ -29,39 +29,54 @@
     },
 
     {
-      "question": "3. HRV most accurately assesses the function of",
+      "question": "3. From the RR Interval Tachogram, which of the following can be calculated?",
       "answers": {
-        "a": "Central nervous system",
-        "b": "Sympathetic nervous system",
-        "c": "Autonomous nervous system",
-        "d": "Somatic Nervous System"
+        "a": "Time interval between consecutive heartbeats",
+        "b": "Oxygen saturation",
+        "c": "Heart rate",
+        "d": "Blood flow rate"
       },
       
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
 
     {
-      "question": "4. Identify the time domain factor HRV",
+      "question": "4. From the simulation, identify the time-domain factor in HRV analysis:",
       "answers": {
-        "a": "LF power",
-        "b": "SDNN",
-        "c": "HF power",
-        "d": "RR wave"
+        "a": "SDNN",
+        "b": "VLF",
+        "c": "HF",
+        "d": "LF"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
 
 {
-      "question": "5. Which of the following factors influences HRV?",
+      "question": "5. From the simulator, identify the importance of RMSSD analysis in HRV:",
       "answers": {
-        "a": "Exercise",
-        "b": "Respiration",
-        "c": "Stress levels",
+        "a": "Indicates PNS Activity",
+        "b": "Indicates SNS Activity",
+        "c": "Indicate CNS activity",
+        "d": "Indicate heart rate per minute"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+{
+      "question": "6. Identify the factors that affect HRV:",
+      "answers": {
+        "a": "Breathing rate",
+        "b": "Stress level",
+        "c": "Physical fitness",
         "d": "All the above"
       },
       
@@ -70,13 +85,61 @@
     },
 
 
-    {
-      "question": "6. The increased parasympathetic activity is indicative of",
+{
+      "question": "7. What does LF/HF Ratio indicate?",
       "answers": {
-        "a": "Decreased HRV",
-        "b": "Increased HRV",
-        "c": "Stable HRV",
-        "d": "None of the above"
+        "a": "SNS balance",
+        "b": "PNS balance",
+        "c": "HRV rate",
+        "d": "ANS balance"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+
+{
+      "question": "8. In which of the clinical conditions is low HRV obtained?",
+      "answers": {
+        "a": "Relaxed state",
+        "b": "Cardiac disease",
+        "c": "Mental Stress",
+        "d": "Overtraining"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+{
+      "question": "9. The Poincare plot in HRV is an example of",
+      "answers": {
+        "a": "Frequency domain analysis",
+        "b": "Spectral Analysis",
+        "c": "Nonlinear analysis",
+        "d": "Time-domain analysis"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "10. RR intervals are measured in:",
+      "answers": {
+        "a": "microseconds",
+        "b": "milliseconds",
+        "c": "nanoseconds",
+        "d": "seconds"
       },
      
       "correctAnswer": "b",
@@ -84,3 +147,12 @@
     }
   ]
 }	 
+
+
+
+
+
+
+
+
+
