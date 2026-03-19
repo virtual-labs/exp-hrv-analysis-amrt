@@ -1,39 +1,86 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+          "question": "1. Which of the following does HRV indicate?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Changes in pulse rate",
+        "b": "Changes in respiration rate",
+        "c": "Changes in the time interval between consecutive heartbeats",
+        "d": "Changes in oxygen concentration"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+    {
+      "question": "2. Which of the following is closely connected with HRV analysis?",
+      "answers": {
+        "a": "ECG",
+        "b": "EEG",
+        "c": "EMG",
+        "d": "MRI"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. HRV most accurately assesses the function of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Central nervous system",
+        "b": "Sympathetic nervous system",
+        "c": "Autonomous nervous system",
+        "d": "Somatic Nervous System"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4. Identify the time domain factor HRV",
+      "answers": {
+        "a": "LF power",
+        "b": "SDNN",
+        "c": "HF power",
+        "d": "RR wave"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+{
+      "question": "5. Which of the following factors influences HRV?",
+      "answers": {
+        "a": "Exercise",
+        "b": "Respiration",
+        "c": "Stress levels",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "6. The increased parasympathetic activity is indicative of",
+      "answers": {
+        "a": "Decreased HRV",
+        "b": "Increased HRV",
+        "c": "Stable HRV",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
