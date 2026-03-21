@@ -1,0 +1,158 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+          "question": "1. Which of the following components are needed for HRV analysis?",
+      "answers": {
+        "a": "ECG System",
+        "b": "ECG Electrodes",
+        "c": "HRV Software",
+        "d": "All the above"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+    {
+      "question": "2. A high HRV rate is expected in which of the following states?",
+      "answers": {
+        "a": "Resting state",
+        "b": "Stress levels",
+        "c": "Post-exercise",
+        "d": "Cardiac dysfunctions"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. From the RR Interval Tachogram, which of the following can be calculated?",
+      "answers": {
+        "a": "Time interval between consecutive heartbeats",
+        "b": "Oxygen saturation",
+        "c": "Heart rate",
+        "d": "Blood flow rate"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4. From the simulation, identify the time-domain factor in HRV analysis:",
+      "answers": {
+        "a": "SDNN",
+        "b": "VLF",
+        "c": "HF",
+        "d": "LF"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+{
+      "question": "5. From the simulator, identify the importance of RMSSD analysis in HRV:",
+      "answers": {
+        "a": "Indicates PNS Activity",
+        "b": "Indicates SNS Activity",
+        "c": "Indicate CNS activity",
+        "d": "Indicate heart rate per minute"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+{
+      "question": "6. Identify the factors that affect HRV:",
+      "answers": {
+        "a": "Breathing rate",
+        "b": "Stress level",
+        "c": "Physical fitness",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+{
+      "question": "7. What does LF/HF Ratio indicate?",
+      "answers": {
+        "a": "SNS balance",
+        "b": "PNS balance",
+        "c": "HRV rate",
+        "d": "ANS balance"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+
+{
+      "question": "8. In which of the clinical conditions is low HRV obtained?",
+      "answers": {
+        "a": "Relaxed state",
+        "b": "Cardiac disease",
+        "c": "Mental Stress",
+        "d": "Overtraining"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+{
+      "question": "9. The Poincare plot in HRV is an example of",
+      "answers": {
+        "a": "Frequency domain analysis",
+        "b": "Spectral Analysis",
+        "c": "Nonlinear analysis",
+        "d": "Time-domain analysis"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "10. RR intervals are measured in:",
+      "answers": {
+        "a": "microseconds",
+        "b": "milliseconds",
+        "c": "nanoseconds",
+        "d": "seconds"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+
+
+
+
+
+
+
+
+

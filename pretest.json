@@ -1,0 +1,86 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+          "question": "1. Which of the following does HRV indicate?",
+      "answers": {
+        "a": "Changes in pulse rate",
+        "b": "Changes in respiration rate",
+        "c": "Changes in the time interval between consecutive heartbeats",
+        "d": "Changes in oxygen concentration"
+      },
+ 
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },   
+
+    {
+      "question": "2. Which of the following is closely connected with HRV analysis?",
+      "answers": {
+        "a": "ECG",
+        "b": "EEG",
+        "c": "EMG",
+        "d": "MRI"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. HRV most accurately assesses the function of",
+      "answers": {
+        "a": "Central nervous system",
+        "b": "Sympathetic nervous system",
+        "c": "Autonomous nervous system",
+        "d": "Somatic Nervous System"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4. Identify the time domain factor HRV",
+      "answers": {
+        "a": "LF power",
+        "b": "SDNN",
+        "c": "HF power",
+        "d": "RR wave"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+{
+      "question": "5. Which of the following factors influences HRV?",
+      "answers": {
+        "a": "Exercise",
+        "b": "Respiration",
+        "c": "Stress levels",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "6. The increased parasympathetic activity is indicative of",
+      "answers": {
+        "a": "Decreased HRV",
+        "b": "Increased HRV",
+        "c": "Stable HRV",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
